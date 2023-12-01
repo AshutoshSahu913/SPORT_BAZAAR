@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "480990458581",
+    "project_id": "sport-bazaar-80ef1",
+    "storage_bucket": "sport-bazaar-80ef1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480990458581:android:1bd466bbb0ffb9cac2e85c",
+        "android_client_info": {
+          "package_name": "com.example.sportbazaar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480990458581-motdu294gb31si3hsq1sd3dbvfn7pil0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA7jBwSaJLAZjRiquxW_euRa6nQ0iAIN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480990458581-motdu294gb31si3hsq1sd3dbvfn7pil0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
